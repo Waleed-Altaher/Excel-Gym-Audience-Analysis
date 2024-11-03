@@ -4,9 +4,9 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Data Source](#data-source)
-- [Technologies Used](#technologies-used)
-- [Execution](#Execution)
+- [Key Skills Demonstrated](#Key-Skills-Demonstrated)
+- [Data Cleaning and Preprocessing](#Data-Cleaning-and-Preprocessing)
+- [Dashboard Breakdown](#Dashboard-Breakdown)
 --- 
 
 
@@ -48,6 +48,8 @@ Before building the dashboard the raw data underwent some cleaning mainly with:
 
 used python specifically for a manually typed cities location data that is not typed properly.    
 this code uses ***levenshtein distance*** to elect most probable word matches from the typed input on our raw data, against starderd cities named to lookup from and replace. here is a sample 
+
+
 ```python
 import pandas as pd
 import re
@@ -96,6 +98,8 @@ def find_best_match(text, min_length=4):
 
 ```
 ---
+
+
 ## Dashboard Breakdown
 
 The dashboard is structured into several key sections to provide a comprehensive view of the audience:
