@@ -34,7 +34,7 @@ Before building the dashboard the raw data underwent some cleaning mainly with:
 ### PowerQuery
 - used complex M Language code to generate conditional and custom columns to serve analysis purposes.
   
-  ![powerquiry](./Dashboard.png)
+  ![powerquiry](./power%20query.png)
 
 ### Python Code for Data Cleaning
 
