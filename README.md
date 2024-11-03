@@ -2,6 +2,11 @@
 # Fitness First Audience Analysis Dashboard
 ![Fitness First Audience Analysis Dashboard](./Dashboard.png)
 
+## Table of Contents
+- [Overview](##Overview)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [Execution](#Execution)
 ## Overview
 
 This project presents an audience analysis for a fitness-focused brand, created to provide insights into the demographics, behaviors, and training preferences of the brand's clients.  
